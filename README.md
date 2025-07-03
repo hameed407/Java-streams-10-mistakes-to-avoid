@@ -1,4 +1,6 @@
-# Java-streams-10-mistakes-to-avoid
+
+
+---
 
 ````markdown
 # 🚀 Java Stream API – 10 Common Scenarios with Solutions
@@ -205,4 +207,6 @@ Happy Streaming! ☕
 
 ```
 
+---
 
+```
