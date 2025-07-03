@@ -1,9 +1,7 @@
 
 
 ---
-
-````markdown
-# 🚀 Java Stream API – 10 Common Scenarios with Solutions
+## 🚀 Java Stream API – 10 Common Scenarios with Solutions
 
 This document lists **10 practical Java Stream mistakes and best practices**. Use this as a quick reference to avoid common pitfalls and write cleaner, safer stream code.
 
